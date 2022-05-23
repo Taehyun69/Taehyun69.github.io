@@ -1,6 +1,6 @@
 <html>
 <head>
-<title>Cracked world</title>
+  This is an open cracked world for everyone
 </head>
 <body>
 
